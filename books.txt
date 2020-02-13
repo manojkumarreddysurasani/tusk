@@ -6,3 +6,6 @@ Welcome to Telusko library
 Maths Books
 History Books
 
+Arts
+Science
+
